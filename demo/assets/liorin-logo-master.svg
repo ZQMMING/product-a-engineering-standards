@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 347.71 120.01">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #c69b60;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #1c1712;
+        font-size: 54.22px;
+        letter-spacing: .2em;
+      }
+
+      .cls-3, .cls-4 {
+        font-family: Garamond, Garamond;
+      }
+
+      .cls-5 {
+        font-family: NotoSansSC-Thin, 'Noto Sans SC';
+        font-size: 22.53px;
+        font-variation-settings: 'wght' 100;
+        font-weight: 200;
+        letter-spacing: .3em;
+      }
+
+      .cls-5, .cls-4 {
+        fill: #6b6b6b;
+      }
+
+      .cls-6 {
+        letter-spacing: .18em;
+      }
+
+      .cls-7 {
+        letter-spacing: .2em;
+      }
+
+      .cls-4 {
+        font-size: 9.87px;
+      }
+
+      .cls-8 {
+        letter-spacing: .2em;
+      }
+    </style>
+  </defs>
+  <g id="_图层_1-2" data-name="图层 1">
+    <g>
+      <g>
+        <path class="cls-2" d="M37.69,16.56C16.87,16.56,0,33.66,0,54.74s16.87,38.18,37.69,38.18,37.69-17.09,37.69-38.18S58.5,16.56,37.69,16.56ZM37.69,89.32c-18.85,0-34.14-15.48-34.14-34.58S18.83,20.16,37.69,20.16s34.14,15.48,34.14,34.58-15.28,34.58-34.14,34.58Z"/>
+        <circle class="cls-1" cx="37.69" cy="31.39" r="3.07"/>
+        <circle class="cls-1" cx="37.69" cy="3.68" r="3.68"/>
+        <rect class="cls-1" x="35.87" y="48.18" width="3.64" height="58.59"/>
+      </g>
+      <g>
+        <text class="cls-3" transform="translate(106.01 48.18)"><tspan x="0" y="0">LIORIN</tspan></text>
+        <text class="cls-4" transform="translate(126.33 68.42)"><tspan class="cls-7" x="0" y="0">ORIEN</tspan><tspan class="cls-6" x="41.33" y="0">T</tspan><tspan class="cls-8" x="49.12" y="0">AL TIME INTELLIGENCE</tspan></text>
+        <text class="cls-5" transform="translate(106.34 96.35)"><tspan x="0" y="0">时空智能 卦象洞见</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
